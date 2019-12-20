@@ -3,6 +3,12 @@
 Unlocked Excel File:https://github.com/HiddenStrawberry/EI-COMPENDEX-SOURCE-LIST/blob/master/SourceCracked.xlsx
 Source:https://www.elsevier.com/solutions/engineering-village/content/compendex
 
+![此处输入图片的描述][1]
+
+
+
+
+
 ```
 2D Materials														
 3D Printing and Additive Manufacturing														
@@ -4572,3 +4578,4 @@ ZKG International
 Zpravy Lesnickeho Vyzkumu														
 ZWF Zeitschrift fuer Wirtschaftlichen Fabrikbetrieb														
 ```
+  [1]: https://s2.ax1x.com/2019/12/21/QjiexI.png
